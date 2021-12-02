@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">mid2</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_people">Choose people</string>
+    <string name="name_surname">Name Surname</string>
+    <string name="search_people">Search people</string>
 </resources>
